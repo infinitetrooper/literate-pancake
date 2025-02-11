@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67ab21543540945d4099094b_9e361f49-a182-4caa-82f5-90e1822d0da9",
+  "moduleUUID": "a9b6b171-be4e-4437-a5e9-ecc15ba7ba5c",
+  "type": "JS_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "hhkbjzmxke",
+            "label": "usersByLimit",
+            "propertyName": "inputs.myFun2"
+          }
+        ],
+        "id": "ixcokuuoet",
+        "sectionName": ""
+      }
+    ],
+    "name": "UsersBy"
+  }
+}

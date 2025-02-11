@@ -1,0 +1,13 @@
+{
+  "gitSyncId": "67ab22833540945d40990997_c35144b6-09b9-4e32-aa8e-50aaaf9db738",
+  "id": "UsersBy_UsersBy",
+  "isPublic": true,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "UsersBy",
+    "name": "UsersBy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}

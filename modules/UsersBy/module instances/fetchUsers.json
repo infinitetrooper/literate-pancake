@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "67ab21543540945d4099094b_606a7109-50a7-4e6f-91e8-8bbcf931ec3d",
+  "id": "UsersBy_fetchUsers",
+  "moduleUUID": "8ef988c4-3622-4da9-a170-11bb2f0872bf",
+  "packageUUID": "b74b6c4a-1d3e-44b2-94fe-f88236b8632f",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {
+      "limit": "10"
+    },
+    "moduleInputs": {
+      "ysisufifaj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "10",
+        "id": "ysisufifaj",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      }
+    },
+    "name": "fetchUsers",
+    "version": "0.0.1"
+  }
+}

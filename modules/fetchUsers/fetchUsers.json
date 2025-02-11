@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67ab21543540945d4099094b_f809fd9a-a6fa-40f0-8b98-bd6b0cf54165",
+  "moduleUUID": "8ef988c4-3622-4da9-a170-11bb2f0872bf",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "10",
+            "id": "ysisufifaj",
+            "label": "limit",
+            "propertyName": "inputs.limit"
+          }
+        ],
+        "id": "raedkyadvw",
+        "sectionName": ""
+      }
+    ],
+    "name": "fetchUsers"
+  }
+}
