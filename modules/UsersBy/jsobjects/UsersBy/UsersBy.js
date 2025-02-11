@@ -1,6 +1,6 @@
 export default {
-	async usersByLimit (limit) {
-		const users = fetchUsers.run({ limit: limit })
+	async usersByLimitAndCountry (limit, country) {
+		const users = fetchUsers.run({ limit: limit, country: country })
 		return users
 	}
 }

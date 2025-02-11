@@ -6,7 +6,7 @@
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT * FROM public.\"users\" LIMIT {{inputs.limit}};",
+      "body": "SELECT * FROM public.\"users\" LIMIT {{inputs.limit}} WHERE country={{inputs.country}};",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [

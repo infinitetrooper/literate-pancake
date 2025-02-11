@@ -7,9 +7,17 @@
   "unpublishedModuleInstance": {
     "contextType": "MODULE",
     "inputs": {
+      "country": "",
       "limit": "10"
     },
     "moduleInputs": {
+      "hfhfbrghrb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "Australia",
+        "id": "hfhfbrghrb",
+        "label": "country",
+        "propertyName": "inputs.country"
+      },
       "ysisufifaj": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "10",
@@ -19,6 +27,6 @@
       }
     },
     "name": "fetchUsers",
-    "version": "0.0.1"
+    "version": "0.0.2"
   }
 }

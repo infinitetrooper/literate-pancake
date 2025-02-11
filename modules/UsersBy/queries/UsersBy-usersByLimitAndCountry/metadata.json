@@ -1,6 +1,6 @@
 {
   "gitSyncId": "907be16d-2234-4d23-b8e5-140132222f04_848c8401-755c-47b9-a292-3f2008dbb217",
-  "id": "UsersBy_UsersBy.usersByLimit",
+  "id": "UsersBy_UsersBy.usersByLimitAndCountry",
   "isPublic": true,
   "pluginId": "js-plugin",
   "pluginType": "JS",
@@ -10,6 +10,9 @@
       "jsArguments": [
         {
           "name": "limit"
+        },
+        {
+          "name": "country"
         }
       ],
       "paginationType": "NONE",
@@ -30,9 +33,9 @@
       }
     ],
     "executeOnLoad": false,
-    "fullyQualifiedName": "UsersBy.usersByLimit",
+    "fullyQualifiedName": "UsersBy.usersByLimitAndCountry",
     "moduleId": "UsersBy",
-    "name": "usersByLimit",
+    "name": "usersByLimitAndCountry",
     "userSetOnLoad": false
   }
 }

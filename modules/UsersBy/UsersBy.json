@@ -10,7 +10,7 @@
             "controlType": "INPUT_TEXT",
             "defaultValue": "[]",
             "id": "hhkbjzmxke",
-            "label": "usersByLimit",
+            "label": "usersByLimitAndCountry",
             "propertyName": "inputs.myFun2"
           }
         ],

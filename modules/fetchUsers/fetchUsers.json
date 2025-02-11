@@ -12,6 +12,13 @@
             "id": "ysisufifaj",
             "label": "limit",
             "propertyName": "inputs.limit"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "Australia",
+            "id": "hfhfbrghrb",
+            "label": "country",
+            "propertyName": "inputs.country"
           }
         ],
         "id": "raedkyadvw",
